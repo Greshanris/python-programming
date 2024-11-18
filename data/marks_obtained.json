@@ -1,0 +1,22 @@
+{
+    "Rishav": {
+        "English": 85,
+        "Math": 90
+    },
+    "Anjali": {
+        "English": 78,
+        "Math": 82
+    },
+    "Samir": {
+        "English": 92,
+        "Math": 88
+    },
+    "Priya": {
+        "English": 89,
+        "Math": 95
+    },
+    "Kiran": {
+        "English": 76,
+        "Math": 84
+    }
+}
